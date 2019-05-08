@@ -26,8 +26,5 @@ function iLoveTheBeatles(int) {
   do{
     
   }
-  while
-  {
-    
-  }
+  while(i<int)
 }
