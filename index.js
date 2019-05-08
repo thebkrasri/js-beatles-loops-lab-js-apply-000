@@ -23,8 +23,8 @@ function johnLennonFacts(arr){
 function iLoveTheBeatles(int) {
   var arr = [];
   var i = 0;
-  do{
+  do {
     
   }
-  while(i<int)
+  while (i<int);
 }
